@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Vinh!
 
-<!--
-**Vithx06/Vithx06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics and Informatics student at Hanoi University of Science and Technology (HUST).
 
-Here are some ideas to get you started:
+I'm interested in Software Engineering, Backend Development, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- **Languages:** Python, C#, C, SQL
+- **Tools:** Git, GitHub, VS Code
+- **Currently learning:** Data Structures & Algorithms, Database Systems, Software Development
+
+## My Projects
+
+### Personal Projects
+
+| Project | Description |
+|---|---|
+| [LeetCook](https://github.com/Vithx06/LeetCook) | My coding solutions and programming practice |
+
+### Collaborative Projects
+
+| Project | Description | Role |
+|---|---|---|
+| Project 1 | Description | Contributor |
+| Project 2 | Description | Developer |
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vithx06&show_icons=true)
+
+## Contact
+
+- **GitHub:** [Vithx06](https://github.com/Vithx06)
