@@ -1,34 +1,78 @@
+ <div align="center">
+
 # Hi, I'm Vinh!
 
-I'm a Mathematics and Informatics student at Hanoi University of Science and Technology (HUST).
+**Mathematics & Informatics Student | Aspiring Software Engineer**
 
-I'm interested in Software Engineering, Backend Development, and Artificial Intelligence.
+Hanoi University of Science and Technology (HUST)
 
-## Tech Stack
+*Building software, solving problems, and learning something new every day.*
 
-- **Languages:** Python, C#, C, SQL
-- **Tools:** Git, GitHub, VS Code
-- **Currently learning:** Data Structures & Algorithms, Database Systems, Software Development
+[![GitHub](https://img.shields.io/badge/GitHub-Vithx06-181717?style=flat-square&logo=github)](https://github.com/Vithx06)
+![Profile Views](https://komarev.com/ghpvc/?username=Vithx06&style=flat-square&color=blue)
 
-## My Projects
+</div>
 
-### Personal Projects
+---
 
-| Project | Description |
-|---|---|
-| [LeetCook](https://github.com/Vithx06/LeetCook) | My coding solutions and programming practice |
+### About Me
 
-### Collaborative Projects
+- Studying **Mathematics and Informatics** at HUST
+- Interested in **Backend Development, Software Engineering and AI**
+- Currently learning **Data Structures, Algorithms and Databases**
+- Enjoy building practical applications and exploring new technologies
+
+### Tech Stack
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Development Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### Featured Projects
+
+**Personal Projects**
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| [LeetCook](https://github.com/Vithx06/LeetCook) | Algorithm and database problem-solving | SQL, Python |
+| Numerical Methods | Numerical algorithms and desktop application | Python, NumPy, PySide6 |
+
+**Collaborative Projects**
 
 | Project | Description | Role |
-|---|---|---|
-| Project 1 | Description | Contributor |
-| Project 2 | Description | Developer |
+|:---|:---|:---|
+| RV32I Pipeline CPU | 5-stage RISC-V processor implementation | Team Member |
+| Project Name | Project description | Contributor |
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vithx06&show_icons=true)
+### GitHub Statistics
 
-## Contact
+<div align="center">
 
-- **GitHub:** [Vithx06](https://github.com/Vithx06)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vithx06&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vithx06&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+<div align="center">
+
+**Code. Learn. Build. Repeat.**
+
+*Thanks for visiting my profile!*
+
+</div>
